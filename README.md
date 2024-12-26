@@ -1,6 +1,6 @@
 # 🐸 ゲロゲロ! — Ribbit! 🐸
 
-Ribbit aims to be a fast, slim and unique Nostr experience, heavily inspired by [Amethyst](https://github.com/vitorpamplona/amethyst/) and the 'Boost for Reddit' app.
+Ribbit aims to be a fast, slim and curated Nostr experience, heavily inspired by [Amethyst](https://github.com/vitorpamplona/amethyst/) and the 'Boost for Reddit' app.
 
 Users will have the freedom to create and browse their own feeds, curated to their exact preferences.
 
