@@ -1,15 +1,14 @@
 # 🐸 ゲロゲロ! — Ribbit! 🐸
 
-Ribbit aims to be a fast, slim and curated Nostr experience, heavily inspired by [Amethyst](https://github.com/vitorpamplona/amethyst/) and the 'Boost for Reddit' app.
+Ribbit aims to be a slim and curated Nostr experience that interoperates with [relay.tools](https://github.com/relaytools/docs).
 
-Users will have the freedom to create and browse their own feeds, curated to their exact preferences.
+Heavily inspired by [Amethyst](https://github.com/vitorpamplona/amethyst/) and the 'Boost for Reddit' app.
 
 | Compare | Reddit | Ribbit |
 | ------- | ------ | ------ |
 | Custom Feeds  | ✔️  | ✔️  |
 | Decentralized | ❌  | ✔️  |
 | FOSS  | ❌  | ✔️  |
-| Private  | ❌  | ✔️  |
 
 
 
